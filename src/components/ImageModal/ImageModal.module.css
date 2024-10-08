@@ -1,0 +1,16 @@
+.modal_poster {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 2px;
+}
+.info_box {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  font-weight: 500;
+  margin: 10px;
+}
